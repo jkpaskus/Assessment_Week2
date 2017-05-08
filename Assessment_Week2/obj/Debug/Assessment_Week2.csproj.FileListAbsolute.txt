@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Assessment_Week2\Assessment_Week2\bin\Debug\Assessment_Week2.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Assessment_Week2\Assessment_Week2\bin\Debug\Assessment_Week2.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Assessment_Week2\Assessment_Week2\bin\Debug\Assessment_Week2.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Assessment_Week2\Assessment_Week2\obj\Debug\Assessment_Week2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Assessment_Week2\Assessment_Week2\obj\Debug\Assessment_Week2.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Assessment_Week2\Assessment_Week2\obj\Debug\Assessment_Week2.pdb
